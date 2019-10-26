@@ -2,7 +2,7 @@ package pl.sda.intermediate;
 
 public class CustomerStatistics {
 
-/*    Customer[] people = new Customer[]{
+    Customer[] people = new Customer[]{
             new Customer( "Anna", "Nowak   ", 33, "1200"),
             new Customer( "Beata", "Kowalska", 22, "1200"),
             new Customer( "Marek", " Nowak", 25, "1250 "),
@@ -12,6 +12,6 @@ public class CustomerStatistics {
             new Customer( "Marek", "Rudy", 15, 2210),
             new Customer( "Adam", "Madej", 15, 3333),
             new Customer( "Adam", "Nowak ", 15, null)
-    };*/
+    };
 
 }
